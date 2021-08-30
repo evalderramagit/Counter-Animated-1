@@ -1,0 +1,22 @@
+/* /* body{
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    height: 100vh;
+    background-color: var(--clr-gray100);
+    color: var(--clr-gray500);
+}
+#counter{
+    font-size: 6rem; */
+/* } */
+
+/* #button__wrapper{ */
+    /* display: flex;
+    gap: 1rem;
+    & > *{
+        border
+    }
+} */
